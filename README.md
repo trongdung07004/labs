@@ -17,4 +17,4 @@ run command ```docker exex -it web-client sh -l``` for into web-client.
 after run command ```cat /tmp/hosts >> /etc/hosts``` for write /etc/hosts from /tmp/hosts.
 ![](sop/images/Screenshot%202024-10-19%20140621.png)
 
-**4.1.2
+**4.1.2**
