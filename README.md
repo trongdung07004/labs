@@ -1,3 +1,3 @@
 # labs
 
-![](sop/images/Screenshot%202024-10-19%20135049.png)
+![](sop/images/Screenshot-2024-10-19-135049.png)
