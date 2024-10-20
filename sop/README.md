@@ -42,7 +42,7 @@ Then run the command ```cat /tmp/hosts >> /etc/hosts``` to write from /tmp/hosts
 
 ![](images/Screenshot%202024-10-19%20212312.png)
 
-*c,d * from sitea.com can see the URL of the parentsite but cannot access the DOM of the parentsite, the image for the ladder is selecting framea, and cannot access the DOM of the parentsite.
+*c,d* from sitea.com can see the URL of the parentsite but cannot access the DOM of the parentsite, the image for the ladder is selecting framea, and cannot access the DOM of the parentsite.
 
 ![](images/Screenshot%202024-10-19%20212841.png)
 
